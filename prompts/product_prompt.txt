@@ -1,0 +1,20 @@
+A high-quality studio product image of a {product_name} by {brand}.
+Clean background, professional lighting, realistic, eCommerce style.
+
+Additional variations:
+
+Variation 1 - Minimalist:
+Minimalist product shot of {product_name} by {brand}.
+White background, soft diffused lighting, clean and simple, suitable for eCommerce.
+
+Variation 2 - Lifestyle:
+Lifestyle product image of {product_name} by {brand}.
+Professional photography, natural lighting, contextual setting, eCommerce ready.
+
+Variation 3 - Detail Focus:
+Close-up product detail of {product_name} by {brand}.
+Macro photography style, sharp focus, professional lighting, studio background.
+
+Variation 4 - Multiple Angles:
+360-degree product view of {product_name} by {brand}.
+Clean studio setting, consistent lighting from all angles, eCommerce ready.
