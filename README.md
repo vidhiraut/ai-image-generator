@@ -49,29 +49,20 @@ This simulates how large catalogs can generate visuals at scale.
 
 ## ▶️ Run Locally
 
-```bash
 python generate_images.py
 Generated images will appear in the images/ folder.
 
 🛠 Tech Stack
 Python
-
 Prompt templating
-
 Local image rendering
-
 JSON-based data pipelines
 
 📌 Why This Project Matters
 This project focuses on automation, scalability, and practical constraints:
-
 Handles API limitations
-
 Avoids large local model downloads
-
 Designed like a real production tool
-
 It reflects how AI is applied in eCommerce, marketing, and creative tech.
 
-Sample Output
-
+📷 Sample Output
